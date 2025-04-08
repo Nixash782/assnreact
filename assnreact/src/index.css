@@ -2,7 +2,7 @@
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 40;
-  color: #05ad59d0;
+  color:#00bfa5 ;
   background-color: #ffffff;
 }
 
@@ -38,6 +38,7 @@ button {
   border: 1px solid transparent;
   padding: 10px;
   font-size: 1em;
+  color: #ffffff;
   font-weight: 500;
   font-family: inherit;
   background-color:#00bfa5;
